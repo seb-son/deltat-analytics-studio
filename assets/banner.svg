@@ -10,5 +10,5 @@
   <path d="M0 230 C120 210 180 120 300 140 S 480 230 600 170 S 820 60 940 100 S 1120 160 1200 110" fill="none" stroke="url(#l)" stroke-width="3" opacity=".9"/>
   <path d="M0 250 C140 240 220 190 340 200 S 520 250 640 215 S 860 140 980 160 S 1130 200 1200 170" fill="none" stroke="#7f77dd" stroke-width="2" opacity=".6"/>
   <text x="60" y="140" font-family="Georgia,'Times New Roman',serif" font-size="68" font-weight="600" fill="#e6edf3"><tspan fill="#36c2a8">Δ</tspan>T Analytics Studio</text>
-  <text x="62" y="190" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="22" fill="#8b98a5" letter-spacing="3">TRENDANALYSE FÜR ENERGIE- &amp; HVAC-AUDITS</text>
+  <text x="62" y="190" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="22" fill="#ffffff" letter-spacing="3">ANALYSETOOLS FÜR ENERGIEDATEN</text>
 </svg>
